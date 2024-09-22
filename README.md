@@ -4,7 +4,7 @@
 
 ## Instalação: 
     1. Clone o repositório:
-    git clone <URL_do_repositório>
+    git clone https://github.com/iasminsantiago/sistema_bancario
     2. Navegue até a pasta do projeto: cd sistema_bancario
 
 ## Uso: Para executar o sistema, use:python sistema_bancario.py
