@@ -12,9 +12,6 @@
 ## Tecnologias
 - Python
 
-## Licença
--
-
 ## Detalhes da V.1:
 - V.1  do sistema: implementar as operações depósito, saque e extrato
     - DEPÓSITO:
